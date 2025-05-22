@@ -7,7 +7,7 @@
 - 📍 **Location:** <a href="https://www.google.com/maps/search/bogot%C3%A1/@4.6486259,-74.2478946,11z" target="_blank">Lima, Perú</a> pe 
 - 📧 **Email:** [mauricio.canales.alvarez@hotmail.com](mailto:mauricio.canales.alvarez@hotmail.com) 
 - 🎓 **Studies:** Systems engineering
-- 🏫 **University:** [Universidad Peruana de Ciencias Aplicadas](https://www.upc.edu.pe/) 📚🇨🇴 
+- 🏫 **University:** [Universidad Peruana de Ciencias Aplicadas](https://www.upc.edu.pe/) 📚 
 
 
 
