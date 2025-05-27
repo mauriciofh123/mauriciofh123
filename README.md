@@ -35,6 +35,9 @@ I'm a systems engineer passionate about **data engineering**, **data analysis**,
 ---
 
 ### :ZAP: Actividad Reciente
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
+
 
 ### 📇 Let's Connect on LinkedIn
 
