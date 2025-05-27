@@ -34,7 +34,7 @@ I'm a systems engineer passionate about **data engineering**, **data analysis**,
 
 ---
 
-### :ZAP: Actividad Reciente
+### 🖥️ Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [mauriciofh123/mauriciofh123.github.io](https://github.com/mauriciofh123/mauriciofh123.github.io)<br>
 2. 📔 Created new repository [mauriciofh123/mauriciofh123.github.io](https://github.com/mauriciofh123/mauriciofh123.github.io)<br>
