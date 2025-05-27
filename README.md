@@ -34,6 +34,8 @@ I'm a systems engineer passionate about **data engineering**, **data analysis**,
 
 ---
 
+### :ZAP: Actividad Reciente
+
 ### 📇 Let's Connect on LinkedIn
 
 I'm always open to networking and professional opportunities. Feel free to reach out:
