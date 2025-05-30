@@ -36,14 +36,14 @@ I'm a systems engineer passionate about **data engineering**, **data analysis**,
 
 ### 🖥️ Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.0](https://github.com/mauriciofh123/MiQuintoRepo/releases/tag/v0.1.0) in [mauriciofh123/MiQuintoRepo](https://github.com/mauriciofh123/MiQuintoRepo)<br>
-2. ⬆️ Pushed 1 commit(s) to [mauriciofh123/MiQuintoRepo](https://github.com/mauriciofh123/MiQuintoRepo)<br>
-3. 📔 Created new repository [mauriciofh123/MiQuintoRepo](https://github.com/mauriciofh123/MiQuintoRepo)<br>
-4. ⬆️ Pushed 1 commit(s) to [mauriciofh123/mauriciofh123](https://github.com/mauriciofh123/mauriciofh123)<br>
-5. ⬆️ Pushed 1 commit(s) to [mauriciofh123/mauriciofh123](https://github.com/mauriciofh123/mauriciofh123)<br>
+1. ⬆️ Pushed 1 commit(s) to [mauriciofh123/Curso-Python-PIP](https://github.com/mauriciofh123/Curso-Python-PIP)<br>
+2. ⬆️ Pushed 1 commit(s) to [mauriciofh123/Curso-Python-PIP](https://github.com/mauriciofh123/Curso-Python-PIP)<br>
+3. 📔 Created new repository [mauriciofh123/Curso-Python-PIP](https://github.com/mauriciofh123/Curso-Python-PIP)<br>
+4. 📔 Created new repository [mauriciofh123/Curso-Python-pip](https://github.com/mauriciofh123/Curso-Python-pip)<br>
+5. ✌️ Released [v0.1.0](https://github.com/mauriciofh123/MiQuintoRepo/releases/tag/v0.1.0) in [mauriciofh123/MiQuintoRepo](https://github.com/mauriciofh123/MiQuintoRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 30th, 2025, 1:14:35 AM
+Last Updated: Friday, May 30th, 2025, 12:31:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
